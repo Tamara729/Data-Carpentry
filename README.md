@@ -10,7 +10,7 @@ Treatments evaluated were 0, 50, 100, 150, 200, and 250 lbs of N per acre.
 - `Variety`: Varieties evaluated in the trial.
 - `Treatment`: Treatments evaluated in the trial.
 
-`EO_Canopy_2021.csv': Canopy area and reflectance data for the 2021 N study on essential oil variety Wife.  
+`EO_Canopy_2021.csv`: Canopy area and reflectance data for the 2021 N study on essential oil variety Wife.  
 - `ID`: Number identification for individual plant canopies and reflectances. 
 - `CanopyArea`: Plant canopy area in square meters (m^2). 
 - `_B1mean`: Mean reflectance value for the green band in nanometers (nm).
